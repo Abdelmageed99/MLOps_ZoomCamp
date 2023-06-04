@@ -1,1 +1,1 @@
-# MLOps_ZoomCamp
+# MLOps_ZoomCamp_Solutions
